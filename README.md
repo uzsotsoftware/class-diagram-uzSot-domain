@@ -1,0 +1,1 @@
+# class-diagram-uzSot-domain
